@@ -59,10 +59,8 @@ Performed business-focused analysis including:
   - Product performance  
   - Discount impact
  
-  The interactive dashboard is included in this repository.
-
-  File: `customer_behavior_dashboard.pbix`
-
+#### Dashboard Preview
+![Customer Behavior Dashboard](customer_behavior_img)
 
 ---
 
