@@ -60,7 +60,7 @@ Performed business-focused analysis including:
   - Discount impact
  
 #### Dashboard Preview
-![Customer Behavior Dashboard](customer_behavior_img)
+![Customer Behavior Dashboard](customer_behavior_img.png)
 
 ---
 
