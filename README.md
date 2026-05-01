@@ -29,3 +29,70 @@ The objective of this project is to transform raw customer transaction data into
 
 ---
 
+## Workflow
+
+### 1. Data Preparation & EDA (Python)
+- Cleaned missing and inconsistent data  
+- Converted data types  
+- Performed exploratory data analysis to understand patterns and trends  
+
+---
+
+### 2. Data Analysis (SQL)
+Performed business-focused analysis including:
+
+- Revenue comparison by gender  
+- Discount impact on purchasing behavior  
+- Top-rated and most purchased products  
+- Shipping type analysis  
+- Customer segmentation (New, Returning, Loyal)  
+- Subscription behavior analysis  
+- Product performance within categories  
+
+---
+
+### 3. Data Visualization (Power BI)
+- Built an interactive dashboard (`.pbix`)  
+- Visualized:
+  - Sales trends  
+  - Customer segments  
+  - Product performance  
+  - Discount impact
+ 
+  The interactive dashboard is included in this repository.
+
+  File: `customer_behavior_dashboard.pbix`
+
+
+---
+
+### 4. Reporting & Insights
+- Derived key insights from analysis  
+- Identified high-value customers and top-performing products  
+- Provided actionable business recommendations  
+
+---
+
+## Key Insights
+- Customers using discounts often show higher purchase activity  
+- Loyal customers contribute significantly to total revenue  
+- Certain product categories dominate sales performance  
+- Subscription status influences overall spending behavior  
+
+---
+
+## 🚀 How to Use
+1. Open the dataset from `/data`  
+2. Run the Jupyter Notebook for data cleaning and EDA  
+3. Execute SQL queries for analysis  
+4. Open the Power BI file to explore the dashboard  
+
+---
+
+## Conclusion
+This project demonstrates the ability to perform a full data analytics lifecycle, including data cleaning, querying, visualization, and storytelling—mirroring real-world business analytics scenarios.
+
+---
+
+## Author
+**Diksha Zope**
